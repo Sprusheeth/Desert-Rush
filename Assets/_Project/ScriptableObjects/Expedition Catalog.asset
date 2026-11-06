@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f231e953eb6d694590d829ae6fd92e2, type: 3}
+  m_Name: Expedition Catalog
+  m_EditorClassIdentifier: Assembly-CSharp::DesertRush.ExpeditionCatalog
+  explorer: {fileID: 4436965121776916985, guid: 99deca5c133fe55459ee70c1208b0b5b, type: 3}
+  obstacles:
+  - {fileID: 3391419543227266961, guid: 6f724be69256a4240869deff39b58364, type: 3}
+  - {fileID: 4583641267981939855, guid: 8e9a7274c09ba734c8a2b60d3f8bdff0, type: 3}
+  - {fileID: 4999162595094396783, guid: d9e76bbec73ccfe47b58a133e5e076bd, type: 3}
+  - {fileID: 4077815524708313891, guid: e710c92f3d3e8664cae8bff68be70c3e, type: 3}
+  - {fileID: 5740763410091879801, guid: 224462310c69b5d45aa49508b54385e3, type: 3}
+  - {fileID: 2869619827309142570, guid: b791d960fa9bc0c4b8aaf0b14b2b340d, type: 3}
+  - {fileID: 6653302623891332892, guid: 751ca43a6eb613c4ab61ab5247d8fd4c, type: 3}
+  - {fileID: 3702209404239647195, guid: 0dc282f10916fce4abe9fae40c81e7de, type: 3}
+  - {fileID: 275033149092919787, guid: d17a1ee2af59b24498e9bbd4c6b623e9, type: 3}
+  - {fileID: 8994574435399686261, guid: 080113010cde0f649a9aacfa5dca7703, type: 3}
+  - {fileID: 5359220344913499092, guid: 6494bd6449731784c8875ed70a5b330b, type: 3}
+  - {fileID: 7776559739205903445, guid: 1204ebead67a03c42a9679d677d99ce1, type: 3}
+  - {fileID: 9004307530388179754, guid: e64848481a5b8b2418122998639a7ec4, type: 3}
+  - {fileID: 7139238944246508940, guid: 8105900555a99064ea6f5e84e3010db5, type: 3}
+  pickups:
+  - {fileID: 3041103139991645343, guid: 318b24de15223c0458bde0e329515eea, type: 3}
+  - {fileID: 9000265376665389289, guid: 0e1ce9761dec54242bdf6593c2792151, type: 3}
+  - {fileID: 1891333480967340951, guid: 5791b3551b5fa504ab433a414bba3e0e, type: 3}
+  - {fileID: 3317089315309578753, guid: dd395f6509f868a4ba1b84be1a5e75f1, type: 3}
+  - {fileID: 1183917594457984010, guid: 6e3c431889a62554e8c8360eb65c2dc5, type: 3}
+  - {fileID: 1248750155031516929, guid: fe2d3ea542266a741b555ceac6470651, type: 3}
+  - {fileID: 7374850579639619951, guid: 44cb992ccf28dd34b83e26eed1b885e4, type: 3}
+  - {fileID: 5224668823091588252, guid: 8696b14ab77e0244da1abf4e73259c85, type: 3}
+  profiles:
+  - {fileID: 11400000, guid: fd67f36395eed1844b80d92183264085, type: 2}
+  - {fileID: 11400000, guid: 456fc7bfc1f41b349b0d3013e1437d97, type: 2}
+  - {fileID: 11400000, guid: 8e17e8648161c9243bd08cd45a0164e8, type: 2}
+  glider: {fileID: 4698889169099788384, guid: ffc0cb0d8569d144e9a7e890d377937c, type: 3}
+  outfits:
+  - {fileID: 2100000, guid: c6dc85fa6506d1445a34d00eb8adbb8e, type: 2}
+  - {fileID: 2100000, guid: 939fb79643be11c4d871e73650a2d92c, type: 2}
+  - {fileID: 2100000, guid: baf88fe90d83eda40aff72de7d0a7570, type: 2}
+  sounds:
+  - {fileID: 8300000, guid: 336d27b331355ac48ac068b53b0a2202, type: 3}
+  - {fileID: 8300000, guid: 1ee4476d128218849a7cf2bee10617ea, type: 3}
+  - {fileID: 8300000, guid: 182f53dd53e3d1b4798fd0ef17583bbb, type: 3}
+  - {fileID: 8300000, guid: 2d9735ef932534841bfab75b03383701, type: 3}
+  - {fileID: 8300000, guid: 30878d964f3c1f2479f4a7bf6d87e614, type: 3}
+  - {fileID: 8300000, guid: 9bec432a3d057fc4584f4c6ad116cd2a, type: 3}
+  - {fileID: 8300000, guid: d4a48c6a2619caf47a6efd2b21c53425, type: 3}
+  - {fileID: 8300000, guid: 92caec0183485e544aa22d578f85c9fb, type: 3}
+  - {fileID: 8300000, guid: a4ec9ca4f16fd24459b73f42004decee, type: 3}
+  - {fileID: 8300000, guid: a94eb04214c0d0c4da39d82d27a59b79, type: 3}

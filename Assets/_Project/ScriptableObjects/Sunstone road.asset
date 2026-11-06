@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43a21fe6490fe1346a716ce92cc445fd, type: 3}
+  m_Name: Sunstone road
+  m_EditorClassIdentifier: Assembly-CSharp::DesertRush.SegmentProfile
+  terrain: {fileID: 1963067340545666440, guid: c405207403bd281459967e9c78bd2bc8, type: 3}
+  scenery:
+  - {fileID: 8011486236425703686, guid: dc16efad038f3bd40a5cd78234af1a6c, type: 3}
+  - {fileID: 6769117993449132554, guid: 73fb72ce3a18e8d458053e61f9b30669, type: 3}
+  - {fileID: 1697626232377659411, guid: ab76c06aa1d49734da387b7461a1fd28, type: 3}
+  - {fileID: 8563853896090411094, guid: 3e44badc9715f9a4aa5c588ffba74f76, type: 3}
+  - {fileID: 6637830502545980345, guid: 5d05b896b50fe6b4ca9a07805fa51e68, type: 3}
+  - {fileID: 7578348355324184242, guid: 6f1271583988e2a4e9423d365bfeea81, type: 3}
+  - {fileID: 3494710867928158022, guid: df5886238aedb184badd50b18eab3d9b, type: 3}
+  sceneryClearance: 9
+  bridge: 0
